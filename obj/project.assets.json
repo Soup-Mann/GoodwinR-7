@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rsgoo\\.nuget\\packages\\": {}
+    "/Users/bernardo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#7\\GoodwinR#7.csproj",
+      "projectUniqueName": "/Users/bernardo/Documents/GitRepository/GoodwinR-7ReverseIt/GoodwinR#7.csproj",
       "projectName": "GoodwinR#7",
-      "projectPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#7\\GoodwinR#7.csproj",
-      "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#7\\obj\\",
+      "projectPath": "/Users/bernardo/Documents/GitRepository/GoodwinR-7ReverseIt/GoodwinR#7.csproj",
+      "packagesPath": "/Users/bernardo/.nuget/packages/",
+      "outputPath": "/Users/bernardo/Documents/GitRepository/GoodwinR-7ReverseIt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/bernardo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
