@@ -4,4 +4,5 @@ Reed Goodwin
 #ReverseIt
 A program to take a string and Int and reverse them!
 
-Peer Review:
+Peer Review:Mauricio Acosta Works great gives multiple examples of reversing different words and numbers and the
+ code looks great
